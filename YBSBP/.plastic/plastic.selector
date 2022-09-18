@@ -1,0 +1,4 @@
+repository "YBSBP@Hamza_and_Muhammet_s_organization@cloud"
+  path "/"
+    br "/main"
+    co "/main"
